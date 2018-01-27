@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/JFoeniXDemo.iml" filepath="$PROJECT_DIR$/JFoeniXDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JFoenixDemo.iml" filepath="$PROJECT_DIR$/JFoenixDemo.iml" />
     </modules>
   </component>
 </project>
