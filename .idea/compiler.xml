@@ -6,11 +6,12 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="JFoenixDemo" />
         <module name="JFoeniXDemo" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel>
-      <module name="JFoeniXDemo" target="1.8" />
+    <bytecodeTargetLevel target="1.8">
+      <module name="JFoenixDemo" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>
